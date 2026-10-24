@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.review.v1",
+    "identity": "100048777766367/review",
+    "archetype": "FLEET_HOMEOSTASIS",
+    "role": "HOLISTIC_REPO_REVIEWER",
+    "network_partners": {
+        "cover": "100048777766367/cover",
+        "testing": "100048777766367/testing",
+        "release": "100048777766367/release"
+    },
+    "io_specification": "I/O (HOLISTIC_REPO_REVIEWER)"
+}
